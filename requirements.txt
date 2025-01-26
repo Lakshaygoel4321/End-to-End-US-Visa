@@ -1,3 +1,9 @@
+ipykernel
+pandas
+seaborn
+matplotlib
+plotly
+scipy
 scikit-learn
 imblearn
 xgboost

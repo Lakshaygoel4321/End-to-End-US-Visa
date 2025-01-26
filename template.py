@@ -21,7 +21,7 @@ file_list = [
     f"{Project_name}/entity/config_entity.py",
     f"{Project_name}/entity/artifact_entity.py",
 
-    f"{Project_name}/exception/__init__.py"
+    f"{Project_name}/exception/__init__.py",
 
     f"{Project_name}/logger/__init__.py",
     

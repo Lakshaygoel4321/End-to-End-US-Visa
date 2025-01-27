@@ -11,9 +11,9 @@ file_list = [
     f"{Project_name}/components/data_transformation.py",
     f"{Project_name}/components/model_trainer.py",
     f"{Project_name}/components/model_evaluation.py",
-    f"{Project_name}/components/model_pusher.py"
+    f"{Project_name}/components/model_pusher.py",
 
-    f"{Project_name}/configuration/__init__.py"
+    f"{Project_name}/configuration/__init__.py",
 
     f"{Project_name}/constant/__init__.py",
 

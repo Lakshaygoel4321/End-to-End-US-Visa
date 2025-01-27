@@ -4,10 +4,13 @@ from US_VISA.logger import logging
 from US_VISA.components.data_ingestion import DataIngestion
 
 
-from US_VISA.entity.config_entity import DataIngestionConfig
+from US_VISA.entity.config_entity import (DataIngestionConfig,
+                                          DataValidationConfig)
                                          
 
-from US_VISA.entity.artifact_entity import DataIngestionArtifact
+from US_VISA.entity.artifact_entity import (DataIngestionArtifact,
+                                            DataValidationArtifact)
+
 
 
 class TrainPipeline:
